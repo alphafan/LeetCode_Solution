@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/004_Median_of_Two_Sorted_Arrays.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/005_Longest_Palindromic_Substring.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="004_Median_of_Two_Sorted_Arrays.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="004_Median_of_Two_Sorted_Arrays.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/004_Median_of_Two_Sorted_Arrays.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1254">
               <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="005_Longest_Palindromic_Substring.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005_Longest_Palindromic_Substring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,6 +73,7 @@
         <option value="$PROJECT_DIR$/003_Longest_Substring_Without_Repeating_Characters.py" />
         <option value="$PROJECT_DIR$/4_Median_of_Two_Sorted_Arrays.py" />
         <option value="$PROJECT_DIR$/004_Median_of_Two_Sorted_Arrays.py" />
+        <option value="$PROJECT_DIR$/005_Longest_Palindromic_Substring.py" />
       </list>
     </option>
   </component>
@@ -135,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.004_Median_of_Two_Sorted_Arrays">
+  <component name="RunManager" selected="Python.005_Longest_Palindromic_Substring">
     <configuration name="003_Longest_Substring_Without_Repeating_Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,6 +183,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="005_Longest_Palindromic_Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005_Longest_Palindromic_Substring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="357_Count_Numbers_with_Unique_Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,16 +219,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.357_Count_Numbers_with_Unique_Digits" />
       <item index="1" class="java.lang.String" itemvalue="Python.003_Longest_Substring_Without_Repeating_Characters" />
       <item index="2" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
+      <item index="3" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
-        <item index="1" class="java.lang.String" itemvalue="Python.003_Longest_Substring_Without_Repeating_Characters" />
-        <item index="2" class="java.lang.String" itemvalue="Python.357_Count_Numbers_with_Unique_Digits" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
+        <item index="1" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
+        <item index="2" class="java.lang.String" itemvalue="Python.003_Longest_Substring_Without_Repeating_Characters" />
+        <item index="3" class="java.lang.String" itemvalue="Python.357_Count_Numbers_with_Unique_Digits" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +248,14 @@
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
     </task>
+    <task id="LOCAL-00001" summary="solution 004">
+      <created>1522120775270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522120775270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -243,6 +282,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solution 004" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 004" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -271,6 +314,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1254">
           <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005_Longest_Palindromic_Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
