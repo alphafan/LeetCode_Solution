@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/011_Container_With_Most_Water.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/022_Generate_Parentheses.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="011_Container_With_Most_Water.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="011_Container_With_Most_Water.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/011_Container_With_Most_Water.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
               <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="022_Generate_Parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/022_Generate_Parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -96,6 +106,7 @@
         <option value="$PROJECT_DIR$/005_Longest_Palindromic_Substring.py" />
         <option value="$PROJECT_DIR$/010_Regular_Expression_Matching.py" />
         <option value="$PROJECT_DIR$/011_Container_With_Most_Water.py" />
+        <option value="$PROJECT_DIR$/022_Generate_Parentheses.py" />
       </list>
     </option>
   </component>
@@ -168,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.010_Regular_Expression_Matching">
+  <component name="RunManager" selected="Python.022_Generate_Parentheses">
     <configuration name="003_Longest_Substring_Without_Repeating_Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,7 +252,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="357_Count_Numbers_with_Unique_Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="022_Generate_Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -253,26 +264,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/357_Count_Numbers_with_Unique_Digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/022_Generate_Parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.357_Count_Numbers_with_Unique_Digits" />
-      <item index="1" class="java.lang.String" itemvalue="Python.003_Longest_Substring_Without_Repeating_Characters" />
-      <item index="2" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
-      <item index="3" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
-      <item index="4" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
+      <item index="0" class="java.lang.String" itemvalue="Python.003_Longest_Substring_Without_Repeating_Characters" />
+      <item index="1" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
+      <item index="2" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
+      <item index="3" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
+      <item index="4" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
-        <item index="1" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
-        <item index="2" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
-        <item index="3" class="java.lang.String" itemvalue="Python.003_Longest_Substring_Without_Repeating_Characters" />
-        <item index="4" class="java.lang.String" itemvalue="Python.357_Count_Numbers_with_Unique_Digits" />
+        <item index="0" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
+        <item index="1" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
+        <item index="2" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
+        <item index="3" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
+        <item index="4" class="java.lang.String" itemvalue="Python.003_Longest_Substring_Without_Repeating_Characters" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522128630478</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="011">
+      <created>1522130405038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522130405038</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -350,7 +368,8 @@
     <MESSAGE value="solution 004" />
     <MESSAGE value="005" />
     <MESSAGE value="010" />
-    <option name="LAST_COMMIT_MESSAGE" value="010" />
+    <MESSAGE value="011" />
+    <option name="LAST_COMMIT_MESSAGE" value="011" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,6 +422,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/022_Generate_Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding />
         </state>
       </provider>
