@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="025_Reverse_Nodes_in_k_Group.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="025_Reverse_Nodes_in_k_Group.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1501">
-              <caret line="79" column="32" lean-forward="true" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+            <state relative-caret-position="133">
+              <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="026_Remove_Duplicates_from_Sorted_Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -120,6 +129,7 @@
         <option value="$PROJECT_DIR$/023_Merge_k_Sorted_Lists.py" />
         <option value="$PROJECT_DIR$/022_Generate_Parentheses.py" />
         <option value="$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py" />
+        <option value="$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py" />
       </list>
     </option>
   </component>
@@ -356,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522130779222</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="026">
+      <created>1522145211394</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1522145211394</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -390,7 +407,8 @@
     <MESSAGE value="010" />
     <MESSAGE value="011" />
     <MESSAGE value="022" />
-    <option name="LAST_COMMIT_MESSAGE" value="022" />
+    <MESSAGE value="026" />
+    <option name="LAST_COMMIT_MESSAGE" value="026" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -465,8 +483,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1501">
-          <caret line="79" column="32" lean-forward="true" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+        <state relative-caret-position="133">
+          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding />
         </state>
       </provider>
