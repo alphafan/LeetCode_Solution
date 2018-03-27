@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/031_Next_Permutation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/032_Longest_Valid_Parentheses.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="005_Longest_Palindromic_Substring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/005_Longest_Palindromic_Substring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="010_Regular_Expression_Matching.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/010_Regular_Expression_Matching.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="031_Next_Permutation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="031_Next_Permutation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/031_Next_Permutation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="166">
               <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="032_Longest_Valid_Parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/032_Longest_Valid_Parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -145,6 +145,7 @@
         <option value="$PROJECT_DIR$/027_Remove_Element.py" />
         <option value="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
         <option value="$PROJECT_DIR$/030_Next_Permutation.py" />
+        <option value="$PROJECT_DIR$/032_Longest_Valid_Parentheses.py" />
       </list>
     </option>
   </component>
@@ -217,25 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.030_Next_Permutation">
-    <configuration name="022_Generate_Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/022_Generate_Parentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.032_Longest_Valid_Parentheses">
     <configuration name="025_Reverse_Nodes_in_k_Group" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,20 +291,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="032_Longest_Valid_Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/032_Longest_Valid_Parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
-      <item index="1" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
-      <item index="2" class="java.lang.String" itemvalue="Python.027_Remove_Element" />
-      <item index="3" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
-      <item index="4" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
+      <item index="1" class="java.lang.String" itemvalue="Python.027_Remove_Element" />
+      <item index="2" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
+      <item index="3" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
-        <item index="2" class="java.lang.String" itemvalue="Python.027_Remove_Element" />
-        <item index="3" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
-        <item index="4" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
+        <item index="0" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
+        <item index="1" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
+        <item index="3" class="java.lang.String" itemvalue="Python.027_Remove_Element" />
+        <item index="4" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522155954267</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="031">
+      <created>1522158558810</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1522158558810</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -456,7 +464,8 @@
     <MESSAGE value="remove" />
     <MESSAGE value="027" />
     <MESSAGE value="030" />
-    <option name="LAST_COMMIT_MESSAGE" value="030" />
+    <MESSAGE value="031" />
+    <option name="LAST_COMMIT_MESSAGE" value="031" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -472,7 +481,7 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -587,6 +596,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/032_Longest_Valid_Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
           <folding />
         </state>
       </provider>
