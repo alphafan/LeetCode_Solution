@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/027_Remove_Element.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="026_Remove_Duplicates_from_Sorted_Array.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="026_Remove_Duplicates_from_Sorted_Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
               <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="027_Remove_Element.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/027_Remove_Element.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="29" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -130,6 +140,7 @@
         <option value="$PROJECT_DIR$/022_Generate_Parentheses.py" />
         <option value="$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py" />
         <option value="$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py" />
+        <option value="$PROJECT_DIR$/027_Remove_Element.py" />
       </list>
     </option>
   </component>
@@ -202,25 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.025_Reverse_Nodes_in_k_Group">
-    <configuration name="004_Median_of_Two_Sorted_Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/004_Median_of_Two_Sorted_Arrays.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.027_Remove_Element">
     <configuration name="005_Longest_Palindromic_Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,20 +286,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="027_Remove_Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/027_Remove_Element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
-      <item index="1" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
-      <item index="2" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
-      <item index="3" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
-      <item index="4" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
+      <item index="0" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
+      <item index="1" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
+      <item index="2" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
+      <item index="3" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
+      <item index="4" class="java.lang.String" itemvalue="Python.027_Remove_Element" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
-        <item index="1" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
-        <item index="2" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
-        <item index="3" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
-        <item index="4" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
+        <item index="0" class="java.lang.String" itemvalue="Python.027_Remove_Element" />
+        <item index="1" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
+        <item index="2" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
+        <item index="3" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
+        <item index="4" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522145211394</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="remove">
+      <created>1522146237222</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1522146237222</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -408,11 +426,12 @@
     <MESSAGE value="011" />
     <MESSAGE value="022" />
     <MESSAGE value="026" />
-    <option name="LAST_COMMIT_MESSAGE" value="026" />
+    <MESSAGE value="remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -493,6 +512,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/027_Remove_Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="29" selection-end-column="16" />
           <folding />
         </state>
       </provider>
