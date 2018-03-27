@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/022_Generate_Parentheses.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,11 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="022_Generate_Parentheses.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="022_Generate_Parentheses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/022_Generate_Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="209">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="025_Reverse_Nodes_in_k_Group.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1501">
+              <caret line="79" column="32" lean-forward="true" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -106,7 +117,9 @@
         <option value="$PROJECT_DIR$/005_Longest_Palindromic_Substring.py" />
         <option value="$PROJECT_DIR$/010_Regular_Expression_Matching.py" />
         <option value="$PROJECT_DIR$/011_Container_With_Most_Water.py" />
+        <option value="$PROJECT_DIR$/023_Merge_k_Sorted_Lists.py" />
         <option value="$PROJECT_DIR$/022_Generate_Parentheses.py" />
+        <option value="$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py" />
       </list>
     </option>
   </component>
@@ -179,25 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.022_Generate_Parentheses">
-    <configuration name="003_Longest_Substring_Without_Repeating_Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/003_Longest_Substring_Without_Repeating_Characters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.025_Reverse_Nodes_in_k_Group">
     <configuration name="004_Median_of_Two_Sorted_Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,20 +265,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="025_Reverse_Nodes_in_k_Group" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.003_Longest_Substring_Without_Repeating_Characters" />
-      <item index="1" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
-      <item index="2" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
-      <item index="3" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
-      <item index="4" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
+      <item index="0" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
+      <item index="1" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
+      <item index="2" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
+      <item index="3" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
+      <item index="4" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
-        <item index="1" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
-        <item index="2" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
-        <item index="3" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
-        <item index="4" class="java.lang.String" itemvalue="Python.003_Longest_Substring_Without_Repeating_Characters" />
+        <item index="0" class="java.lang.String" itemvalue="Python.025_Reverse_Nodes_in_k_Group" />
+        <item index="1" class="java.lang.String" itemvalue="Python.022_Generate_Parentheses" />
+        <item index="2" class="java.lang.String" itemvalue="Python.010_Regular_Expression_Matching" />
+        <item index="3" class="java.lang.String" itemvalue="Python.005_Longest_Palindromic_Substring" />
+        <item index="4" class="java.lang.String" itemvalue="Python.004_Median_of_Two_Sorted_Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522130405038</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="022">
+      <created>1522130779222</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1522130779222</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -369,11 +389,12 @@
     <MESSAGE value="005" />
     <MESSAGE value="010" />
     <MESSAGE value="011" />
-    <option name="LAST_COMMIT_MESSAGE" value="011" />
+    <MESSAGE value="022" />
+    <option name="LAST_COMMIT_MESSAGE" value="022" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -426,10 +447,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/023_Merge_k_Sorted_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/022_Generate_Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="209">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" column="32" lean-forward="true" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
           <folding />
         </state>
       </provider>
