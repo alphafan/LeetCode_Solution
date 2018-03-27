@@ -22,45 +22,19 @@ isMatch("aab", "c*a*b") → true
 
 class Solution(object):
 
-    def isMatch(self, s, p):
-        """
-        :type s: str
-        :type p: str
-        :rtype: bool
-        """
-        ls, lp = len(s), len(p)
-        if ls > lp:
-            return False
-        i = 0
-        while i < ls-lp+1:
-            if self.isMatchFromStart(s[i:], p[1:]):
-                return True
-            i += 1
-        return False
+    def isMatch(self, text, pattern):
+        if not pattern:
+            return not text
 
-    def isMatchFromStart(self, s, p):
-        """
-        :type s: str
-        :type p: str
-        :rtype: bool
-        """
-        # Divide and conquer
-        ls, lp = len(s), len(p)
-        if ls < lp:
-            return False
-        if lp == 0:
-            return True
-        if p[0] == '.' or p[0] == s[0]:
-            return self.isMatchFromStart(s[1:], p[1:])
-        elif p[0] == '*':
-            for i in range(0, ls-lp+1):
-                if self.isMatchFromStart(s[1:], p[1:]):
-                    return True
-            return False
+        first_match = bool(text) and pattern[0] in {text[0], '.'}
+
+        if len(pattern) >= 2 and pattern[1] == '*':
+            return (self.isMatch(text, pattern[2:]) or
+                    first_match and self.isMatch(text[1:], pattern))
         else:
-            return False
+            return first_match and self.isMatch(text[1:], pattern[1:])
 
 
 s = Solution()
-r = s.isMatchFromStart('abcde', 'ab.*e')
+r = s.isMatch('abcde', 'ab.*e')
 print(r)
