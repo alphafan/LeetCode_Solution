@@ -28,8 +28,8 @@ class Solution(object):
         """
         if len(nums) == 0:
             return []
-        res = [[], [nums[0]]]
-        for i, num in enumerate(nums[1:]):
+        res = [[]]
+        for i, num in enumerate(nums):
             expandRes = [r+[num] for r in res]
             res = res + expandRes
         res.sort()
