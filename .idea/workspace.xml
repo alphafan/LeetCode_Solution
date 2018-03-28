@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/040_Combination_Sum_II.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/041_First_Missing_Positive.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="030_Substring_with_Concatenation_of_All_Words.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-              <folding>
-                <element signature="e#374#405#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="034_Search_for_a_Range.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/034_Search_for_a_Range.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="040_Combination_Sum_II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="040_Combination_Sum_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/040_Combination_Sum_II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="404">
               <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="041_First_Missing_Positive.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/041_First_Missing_Positive.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -159,6 +157,7 @@
         <option value="$PROJECT_DIR$/047_Permutations_II.py" />
         <option value="$PROJECT_DIR$/039_Combination_Sum.py" />
         <option value="$PROJECT_DIR$/040_Combination_Sum_II.py" />
+        <option value="$PROJECT_DIR$/041_First_Missing_Positive.py" />
       </list>
     </option>
   </component>
@@ -512,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522231484071</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="040">
+      <created>1522231589899</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1522231589899</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -570,7 +576,8 @@
     <MESSAGE value="090" />
     <MESSAGE value="046" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="040" />
+    <option name="LAST_COMMIT_MESSAGE" value="040" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -799,6 +806,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041_First_Missing_Positive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
           <folding />
         </state>
       </provider>
