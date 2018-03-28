@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/044_Wildcard_Matching.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/045_Jump_Game_II.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,11 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="044_Wildcard_Matching.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="044_Wildcard_Matching.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/044_Wildcard_Matching.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="045_Jump_Game_II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/045_Jump_Game_II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -99,16 +110,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="090_Subsets_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/090_Subsets_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -159,6 +160,7 @@
         <option value="$PROJECT_DIR$/042_Trapping_Rain_Water.py" />
         <option value="$PROJECT_DIR$/043_Multiply_Strings.py" />
         <option value="$PROJECT_DIR$/044_Wildcard_Matching.py" />
+        <option value="$PROJECT_DIR$/045_Jump_Game_II.py" />
       </list>
     </option>
   </component>
@@ -236,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.044_Wildcard_Matching">
+  <component name="RunManager" selected="Python.045_Jump_Game_II">
     <configuration name="039_Combination_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,7 +311,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="047_Permutations_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="045_Jump_Game_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -321,7 +323,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/047_Permutations_II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/045_Jump_Game_II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,18 +331,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.047_Permutations_II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.042_Trapping_Rain_Water" />
-      <item index="3" class="java.lang.String" itemvalue="Python.043_Multiply_Strings" />
-      <item index="4" class="java.lang.String" itemvalue="Python.044_Wildcard_Matching" />
+      <item index="1" class="java.lang.String" itemvalue="Python.042_Trapping_Rain_Water" />
+      <item index="2" class="java.lang.String" itemvalue="Python.043_Multiply_Strings" />
+      <item index="3" class="java.lang.String" itemvalue="Python.044_Wildcard_Matching" />
+      <item index="4" class="java.lang.String" itemvalue="Python.045_Jump_Game_II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.044_Wildcard_Matching" />
-        <item index="1" class="java.lang.String" itemvalue="Python.043_Multiply_Strings" />
-        <item index="2" class="java.lang.String" itemvalue="Python.042_Trapping_Rain_Water" />
-        <item index="3" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.047_Permutations_II" />
+        <item index="0" class="java.lang.String" itemvalue="Python.045_Jump_Game_II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.044_Wildcard_Matching" />
+        <item index="2" class="java.lang.String" itemvalue="Python.043_Multiply_Strings" />
+        <item index="3" class="java.lang.String" itemvalue="Python.042_Trapping_Rain_Water" />
+        <item index="4" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -540,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522243550108</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="044">
+      <created>1522246302269</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1522246302269</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -602,7 +611,8 @@
     <MESSAGE value="041" />
     <MESSAGE value="commit" />
     <MESSAGE value="043" />
-    <option name="LAST_COMMIT_MESSAGE" value="043" />
+    <MESSAGE value="044" />
+    <option name="LAST_COMMIT_MESSAGE" value="044" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -618,7 +628,7 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -863,6 +873,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/045_Jump_Game_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding />
         </state>
       </provider>
