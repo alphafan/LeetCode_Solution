@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/034_Search_for_a_Range.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/035_Search_Insert_Position.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,26 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="025_Reverse_Nodes_in_k_Group.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="026_Remove_Duplicates_from_Sorted_Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="027_Remove_Element.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/027_Remove_Element.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="034_Search_for_a_Range.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="034_Search_for_a_Range.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/034_Search_for_a_Range.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="410">
+              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="035_Search_Insert_Position.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/035_Search_Insert_Position.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -151,6 +141,8 @@
         <option value="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
         <option value="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
         <option value="$PROJECT_DIR$/034_Search_for_a_Range.py" />
+        <option value="$PROJECT_DIR$/035_Search_Insert_Position.py" />
+        <option value="$PROJECT_DIR$/036_Valid_Soduku.py" />
       </list>
     </option>
   </component>
@@ -209,7 +201,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.034_Search_for_a_Range">
+  <component name="RunManager" selected="Python.035_Search_Insert_Position">
     <configuration name="030_Substring_with_Concatenation_of_All_Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,24 +229,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="032_Longest_Valid_Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/032_Longest_Valid_Parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,6 +270,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="035_Search_Insert_Position" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/035_Search_Insert_Position.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="076_Minimum_Window_Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,18 +308,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
-      <item index="1" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
-      <item index="2" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
-      <item index="3" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
-      <item index="4" class="java.lang.String" itemvalue="Python.034_Search_for_a_Range" />
+      <item index="1" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
+      <item index="2" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+      <item index="3" class="java.lang.String" itemvalue="Python.034_Search_for_a_Range" />
+      <item index="4" class="java.lang.String" itemvalue="Python.035_Search_Insert_Position" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.034_Search_for_a_Range" />
-        <item index="1" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
-        <item index="2" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
-        <item index="3" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
-        <item index="4" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
+        <item index="0" class="java.lang.String" itemvalue="Python.035_Search_Insert_Position" />
+        <item index="1" class="java.lang.String" itemvalue="Python.034_Search_for_a_Range" />
+        <item index="2" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
+        <item index="3" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+        <item index="4" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522205923628</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="034">
+      <created>1522207311590</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1522207311590</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -502,7 +501,8 @@
     <MESSAGE value="033" />
     <MESSAGE value="076" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="034" />
+    <option name="LAST_COMMIT_MESSAGE" value="034" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,8 +653,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/034_Search_for_a_Range.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="410">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/036_Valid_Soduku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/035_Search_Insert_Position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
           <folding />
         </state>
       </provider>
