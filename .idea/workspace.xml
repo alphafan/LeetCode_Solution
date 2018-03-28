@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/041_First_Missing_Positive.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/042_Trapping_Rain_Water.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="034_Search_for_a_Range.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/034_Search_for_a_Range.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="035_Search_Insert_Position.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/035_Search_Insert_Position.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="041_First_Missing_Positive.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="041_First_Missing_Positive.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/041_First_Missing_Positive.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
               <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="042_Trapping_Rain_Water.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/042_Trapping_Rain_Water.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="61" column="26" lean-forward="false" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -158,6 +158,7 @@
         <option value="$PROJECT_DIR$/039_Combination_Sum.py" />
         <option value="$PROJECT_DIR$/040_Combination_Sum_II.py" />
         <option value="$PROJECT_DIR$/041_First_Missing_Positive.py" />
+        <option value="$PROJECT_DIR$/042_Trapping_Rain_Water.py" />
       </list>
     </option>
   </component>
@@ -235,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.039_Combination_Sum">
+  <component name="RunManager" selected="Python.042_Trapping_Rain_Water">
     <configuration name="039_Combination_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,6 +250,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/039_Combination_Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="042_Trapping_Rain_Water" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/042_Trapping_Rain_Water.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,38 +327,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="090_Subsets_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/090_Subsets_II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
       <item index="1" class="java.lang.String" itemvalue="Python.078_Subsets" />
-      <item index="2" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.046_Permutations" />
-      <item index="4" class="java.lang.String" itemvalue="Python.047_Permutations_II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.046_Permutations" />
+      <item index="3" class="java.lang.String" itemvalue="Python.047_Permutations_II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.042_Trapping_Rain_Water" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.047_Permutations_II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.046_Permutations" />
-        <item index="3" class="java.lang.String" itemvalue="Python.078_Subsets" />
-        <item index="4" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
+        <item index="0" class="java.lang.String" itemvalue="Python.042_Trapping_Rain_Water" />
+        <item index="1" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.047_Permutations_II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.046_Permutations" />
+        <item index="4" class="java.lang.String" itemvalue="Python.078_Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -518,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522231589899</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="041">
+      <created>1522238053648</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1522238053648</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -577,7 +585,8 @@
     <MESSAGE value="046" />
     <MESSAGE value="update" />
     <MESSAGE value="040" />
-    <option name="LAST_COMMIT_MESSAGE" value="040" />
+    <MESSAGE value="041" />
+    <option name="LAST_COMMIT_MESSAGE" value="041" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -593,7 +602,7 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -814,6 +823,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/042_Trapping_Rain_Water.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="61" column="26" lean-forward="false" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
           <folding />
         </state>
       </provider>
