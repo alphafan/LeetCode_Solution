@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/035_Search_Insert_Position.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/039_Combination_Sum.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="035_Search_Insert_Position.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="035_Search_Insert_Position.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/035_Search_Insert_Position.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
               <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="039_Combination_Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/039_Combination_Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="31" column="53" lean-forward="false" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -143,6 +153,7 @@
         <option value="$PROJECT_DIR$/034_Search_for_a_Range.py" />
         <option value="$PROJECT_DIR$/035_Search_Insert_Position.py" />
         <option value="$PROJECT_DIR$/036_Valid_Soduku.py" />
+        <option value="$PROJECT_DIR$/039_Combination_Sum.py" />
       </list>
     </option>
   </component>
@@ -215,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.035_Search_Insert_Position">
+  <component name="RunManager" selected="Python.039_Combination_Sum">
     <configuration name="030_Substring_with_Concatenation_of_All_Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,24 +240,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="033_Search_in_Rotated_Sorted_Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/033_Search_in_Rotated_Sorted_Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,6 +281,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="039_Combination_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/039_Combination_Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="076_Minimum_Window_Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,18 +319,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
-      <item index="1" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
-      <item index="2" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
-      <item index="3" class="java.lang.String" itemvalue="Python.034_Search_for_a_Range" />
-      <item index="4" class="java.lang.String" itemvalue="Python.035_Search_Insert_Position" />
+      <item index="1" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+      <item index="2" class="java.lang.String" itemvalue="Python.034_Search_for_a_Range" />
+      <item index="3" class="java.lang.String" itemvalue="Python.035_Search_Insert_Position" />
+      <item index="4" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.035_Search_Insert_Position" />
-        <item index="1" class="java.lang.String" itemvalue="Python.034_Search_for_a_Range" />
-        <item index="2" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
-        <item index="3" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
-        <item index="4" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
+        <item index="0" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.035_Search_Insert_Position" />
+        <item index="2" class="java.lang.String" itemvalue="Python.034_Search_for_a_Range" />
+        <item index="3" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
+        <item index="4" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
       </list>
     </recent_temporary>
   </component>
@@ -449,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522207311590</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="035">
+      <created>1522216985200</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1522216985200</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -502,11 +520,19 @@
     <MESSAGE value="076" />
     <MESSAGE value="update" />
     <MESSAGE value="034" />
-    <option name="LAST_COMMIT_MESSAGE" value="034" />
+    <MESSAGE value="035" />
+    <option name="LAST_COMMIT_MESSAGE" value="035" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="18" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/039_Combination_Sum.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -671,6 +697,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/039_Combination_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="31" column="53" lean-forward="false" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
           <folding />
         </state>
       </provider>
