@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/046_Permutations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/047_Permutations_II.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/039_Combination_Sum.py" afterPath="$PROJECT_DIR$/039_Combination_Sum.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,21 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="039_Combination_Sum.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="039_Combination_Sum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/039_Combination_Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="31" column="53" lean-forward="false" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="032_Longest_Valid_Parentheses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/032_Longest_Valid_Parentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+            <state relative-caret-position="318">
+              <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -98,11 +89,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="046_Permutations.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="046_Permutations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/046_Permutations.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
               <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="047_Permutations_II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/047_Permutations_II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -153,10 +154,11 @@
         <option value="$PROJECT_DIR$/034_Search_for_a_Range.py" />
         <option value="$PROJECT_DIR$/035_Search_Insert_Position.py" />
         <option value="$PROJECT_DIR$/036_Valid_Soduku.py" />
-        <option value="$PROJECT_DIR$/039_Combination_Sum.py" />
         <option value="$PROJECT_DIR$/090_Subsets_II.py" />
         <option value="$PROJECT_DIR$/078_Subsets.py" />
         <option value="$PROJECT_DIR$/046_Permutations.py" />
+        <option value="$PROJECT_DIR$/047_Permutations_II.py" />
+        <option value="$PROJECT_DIR$/039_Combination_Sum.py" />
       </list>
     </option>
   </component>
@@ -229,25 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.046_Permutations">
-    <configuration name="035_Search_Insert_Position" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/035_Search_Insert_Position.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.039_Combination_Sum">
     <configuration name="039_Combination_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,6 +263,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/046_Permutations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="047_Permutations_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/047_Permutations_II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,19 +323,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.035_Search_Insert_Position" />
-      <item index="1" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.078_Subsets" />
-      <item index="3" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.046_Permutations" />
+      <item index="0" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
+      <item index="1" class="java.lang.String" itemvalue="Python.078_Subsets" />
+      <item index="2" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.046_Permutations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.047_Permutations_II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.046_Permutations" />
-        <item index="1" class="java.lang.String" itemvalue="Python.078_Subsets" />
-        <item index="2" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.035_Search_Insert_Position" />
+        <item index="0" class="java.lang.String" itemvalue="Python.039_Combination_Sum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.047_Permutations_II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.046_Permutations" />
+        <item index="3" class="java.lang.String" itemvalue="Python.078_Subsets" />
+        <item index="4" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522221799259</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="046">
+      <created>1522223633847</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1522223633847</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -548,14 +557,15 @@
     <MESSAGE value="039" />
     <MESSAGE value="078" />
     <MESSAGE value="090" />
-    <option name="LAST_COMMIT_MESSAGE" value="090" />
+    <MESSAGE value="046" />
+    <option name="LAST_COMMIT_MESSAGE" value="046" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/039_Combination_Sum.py</url>
-          <line>29</line>
+          <line>30</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -723,14 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/039_Combination_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="31" column="53" lean-forward="false" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/076_Minimum_Window_Substring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -761,6 +763,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/047_Permutations_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/039_Combination_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
           <folding />
         </state>
       </provider>

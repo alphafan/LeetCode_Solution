@@ -25,6 +25,7 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         results = []
+        nums.sort()
 
         def findRec(nums, target, partial):
             current = sum(partial)
@@ -42,7 +43,7 @@ class Solution(object):
 
 
 s = Solution()
-nums = [2, 3, 6, 7]
+nums = [2, 3, 4, 7]
 target = 7
 r = s.combinationSum(nums, target)
 print(r)
