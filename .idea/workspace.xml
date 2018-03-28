@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/033_Search_in_Rotated_Sorted_Array.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="011_Container_With_Most_Water.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/011_Container_With_Most_Water.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="022_Generate_Parentheses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/022_Generate_Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,12 +86,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="033_Search_in_Rotated_Sorted_Array.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="033_Search_in_Rotated_Sorted_Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/033_Search_in_Rotated_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="076_Minimum_Window_Substring.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/076_Minimum_Window_Substring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="e#423#454#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,6 +149,7 @@
         <option value="$PROJECT_DIR$/030_Next_Permutation.py" />
         <option value="$PROJECT_DIR$/032_Longest_Valid_Parentheses.py" />
         <option value="$PROJECT_DIR$/033_Search_in_Rotated_Sorted_Array.py" />
+        <option value="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
       </list>
     </option>
   </component>
@@ -219,25 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.033_Search_in_Rotated_Sorted_Array">
-    <configuration name="027_Remove_Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/027_Remove_Element.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.076_Minimum_Window_Substring">
     <configuration name="030_Next_Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,20 +295,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="076_Minimum_Window_Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.027_Remove_Element" />
-      <item index="1" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
-      <item index="2" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
-      <item index="4" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
+      <item index="0" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
+      <item index="1" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
+      <item index="3" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
-        <item index="1" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
-        <item index="2" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
-        <item index="4" class="java.lang.String" itemvalue="Python.027_Remove_Element" />
+        <item index="0" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+        <item index="1" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
+        <item index="3" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522161991854</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="033">
+      <created>1522165910403</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1522165910403</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -474,7 +484,8 @@
     <MESSAGE value="030" />
     <MESSAGE value="031" />
     <MESSAGE value="032" />
-    <option name="LAST_COMMIT_MESSAGE" value="032" />
+    <MESSAGE value="033" />
+    <option name="LAST_COMMIT_MESSAGE" value="033" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -490,7 +501,7 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -622,6 +633,16 @@
         <state relative-caret-position="171">
           <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/076_Minimum_Window_Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#423#454#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
