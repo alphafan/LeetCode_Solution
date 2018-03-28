@@ -25,47 +25,36 @@ class Solution(object):
         :type words: List[str]
         :rtype: List[int]
         """
-        if s == '' or len(words) == 0:
+        if not s or not words:
             return []
-        n = len(words)
-        l = len(words[0])
-        counter = Counter(words)
-        ans = []
-        for r in range(l):
-            splitStrings = []
-            for idx in range(r, len(s), l):
-                splitStrings.append(s[idx:idx+l])
-            m = len(splitStrings)
-            if len(splitStrings) < n:
-                continue
-            i, j, c = 0, 0, copy.deepcopy(counter)
-            while i < m and j < m:
-                if splitStrings[j] in c:
-                    if c[splitStrings[j]] == 0:
-                        while i < j and splitStrings[i] != c[splitStrings[j]]:
-                            c[splitStrings[i]] += 1
+        m, n, results = len(words), len(words[0]), []
+        for r in range(n):
+            ss = [s[r:r+n] for r in range(r, len(s), n)]
+            i = L = R = 0
+            need, missing = Counter(words), len(words)
+            for j, sub in enumerate(ss):
+                if sub in need:
+                    missing -= need[sub] > 0
+                    need[sub] -= 1
+                    if not missing:
+                        while i < j and need[ss[i]] < 0:
+                            need[ss[i]] += 1
                             i += 1
-                        # i += 1
-                        # j += 1
-                    else:
-                        c[splitStrings[j]] -= 1
-                        j += 1
-                        if any(c.values()) is False:
-                            # All words count are 0
-                            print(r+l*i, r+l*j)
-                            print(s[r+l*i:r+l*j])
-                            ans.append(r+l*i)
-                            i, j, c = i+1, i+1, copy.deepcopy(counter)
-                            if j >= m:
-                                break
+                        if not R or j - i <= R - L:
+                            L, R = i, j
+                            index = r+i*n
+                            print(index)
+                            results.append(index)
                 else:
-                    j += 1
+                    # Current sub string not in need, re-init
+                    need, missing = Counter(words), len(words)
                     i = j
-                    c = copy.deepcopy(counter)
-        return ans
+        return results
+
+
 
 sol = Solution()
 s = 'barfoofoobarthefoobarman'
-words = ['bar', 'foo', 'the']
+words = ['bar', 'foo']
 sol.findSubstring(s, words)
 

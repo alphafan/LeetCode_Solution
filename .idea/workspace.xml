@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" afterPath="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="030_Substring_with_Concatenation_of_All_Words.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="030_Substring_with_Concatenation_of_All_Words.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="203">
+              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
               <folding>
                 <element signature="e#374#405#0" expanded="true" />
               </folding>
@@ -96,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="076_Minimum_Window_Substring.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="076_Minimum_Window_Substring.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/076_Minimum_Window_Substring.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
@@ -145,11 +145,11 @@
         <option value="$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py" />
         <option value="$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/027_Remove_Element.py" />
-        <option value="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
         <option value="$PROJECT_DIR$/030_Next_Permutation.py" />
         <option value="$PROJECT_DIR$/032_Longest_Valid_Parentheses.py" />
         <option value="$PROJECT_DIR$/033_Search_in_Rotated_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
+        <option value="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
       </list>
     </option>
   </component>
@@ -222,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.076_Minimum_Window_Substring">
+  <component name="RunManager" selected="Python.030_Substring_with_Concatenation_of_All_Words">
     <configuration name="030_Next_Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,11 +322,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
-        <item index="1" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
-        <item index="3" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
-        <item index="4" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
+        <item index="0" class="java.lang.String" itemvalue="Python.030_Substring_with_Concatenation_of_All_Words" />
+        <item index="1" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+        <item index="2" class="java.lang.String" itemvalue="Python.033_Search_in_Rotated_Sorted_Array" />
+        <item index="3" class="java.lang.String" itemvalue="Python.032_Longest_Valid_Parentheses" />
+        <item index="4" class="java.lang.String" itemvalue="Python.030_Next_Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522165910403</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="076">
+      <created>1522203286439</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1522203286439</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -485,23 +492,12 @@
     <MESSAGE value="031" />
     <MESSAGE value="032" />
     <MESSAGE value="033" />
-    <option name="LAST_COMMIT_MESSAGE" value="033" />
+    <MESSAGE value="076" />
+    <option name="LAST_COMMIT_MESSAGE" value="076" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py</url>
-          <line>44</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -602,16 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#374#405#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/031_Next_Permutation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -642,6 +628,16 @@
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="e#423#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#374#405#0" expanded="true" />
           </folding>
         </state>
       </provider>
