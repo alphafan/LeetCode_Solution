@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/077_Combinations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/079_Word_Search.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/076_Minimum_Window_Substring.py" afterPath="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,26 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="061_Rotate_List.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/061_Rotate_List.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="062_Unique_Paths.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/062_Unique_Paths.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="064_Minimum_Path_Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/064_Minimum_Path_Sum.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +85,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="076_Minimum_Window_Substring.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="076_Minimum_Window_Substring.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/076_Minimum_Window_Substring.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="077_Combinations.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/077_Combinations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="079_Word_Search.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/079_Word_Search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="581">
+              <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -129,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/357_Count_Numbers_with_Unique_Digits.py" />
-        <option value="$PROJECT_DIR$/003_Longest_Substring_Without_Repeating_Characters.py" />
         <option value="$PROJECT_DIR$/4_Median_of_Two_Sorted_Arrays.py" />
         <option value="$PROJECT_DIR$/004_Median_of_Two_Sorted_Arrays.py" />
         <option value="$PROJECT_DIR$/005_Longest_Palindromic_Substring.py" />
@@ -180,6 +179,8 @@
         <option value="$PROJECT_DIR$/071_Simplify_Path.py" />
         <option value="$PROJECT_DIR$/072_Edit_Distance.py" />
         <option value="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
+        <option value="$PROJECT_DIR$/077_Combinations.py" />
+        <option value="$PROJECT_DIR$/079_Word_Search.py" />
       </list>
     </option>
   </component>
@@ -257,43 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.076_Minimum_Window_Substring">
-    <configuration name="068_Text_Justification" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/068_Text_Justification.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="069_Sqrt(x)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/069_Sqrt(x).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.079_Word_Search">
     <configuration name="071_Simplify_Path" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +313,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="077_Combinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/077_Combinations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="079_Word_Search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/079_Word_Search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
-      <item index="1" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
-      <item index="3" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
-      <item index="4" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+      <item index="0" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
+      <item index="1" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
+      <item index="2" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+      <item index="3" class="java.lang.String" itemvalue="Python.077_Combinations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.079_Word_Search" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
-        <item index="1" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
-        <item index="2" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
-        <item index="3" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
+        <item index="0" class="java.lang.String" itemvalue="Python.079_Word_Search" />
+        <item index="1" class="java.lang.String" itemvalue="Python.077_Combinations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+        <item index="3" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
+        <item index="4" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
       </list>
     </recent_temporary>
   </component>
@@ -687,7 +688,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522333555418</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="076">
+      <created>1522337765879</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1522337765879</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -725,7 +733,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="078" />
     <MESSAGE value="090" />
     <MESSAGE value="046" />
     <MESSAGE value="update" />
@@ -750,7 +757,8 @@
     <MESSAGE value="push" />
     <MESSAGE value="071" />
     <MESSAGE value="distance" />
-    <option name="LAST_COMMIT_MESSAGE" value="distance" />
+    <MESSAGE value="076" />
+    <option name="LAST_COMMIT_MESSAGE" value="076" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -771,14 +779,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/357_Count_Numbers_with_Unique_Digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/003_Longest_Substring_Without_Repeating_Characters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
@@ -1169,6 +1169,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/077_Combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/079_Word_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
           <folding />
         </state>
       </provider>
