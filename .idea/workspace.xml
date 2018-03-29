@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/057_Insert_Interval.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/059_Spiral_Matrix_II.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/056_Merge_Intervals.py" afterPath="$PROJECT_DIR$/056_Merge_Intervals.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="044_Wildcard_Matching.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/044_Wildcard_Matching.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="045_Jump_Game_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/045_Jump_Game_II.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="057_Insert_Interval.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="057_Insert_Interval.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/057_Insert_Interval.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="622">
-              <caret line="38" column="50" lean-forward="true" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+            <state relative-caret-position="185">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="059_Spiral_Matrix_II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/059_Spiral_Matrix_II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="48" column="14" lean-forward="true" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -169,6 +168,7 @@
         <option value="$PROJECT_DIR$/055_Jump_Game.py" />
         <option value="$PROJECT_DIR$/056_Merge_Intervals.py" />
         <option value="$PROJECT_DIR$/057_Insert_Interval.py" />
+        <option value="$PROJECT_DIR$/059_Spiral_Matrix_II.py" />
       </list>
     </option>
   </component>
@@ -246,25 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.055_Jump_Game">
-    <configuration name="050_Pow(x, n)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/050_Pow(x, n).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.059_Spiral_Matrix_II">
     <configuration name="051_N_Queens" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,20 +319,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="059_Spiral_Matrix_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/059_Spiral_Matrix_II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.050_Pow(x, n)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.051_N_Queens" />
-      <item index="2" class="java.lang.String" itemvalue="Python.053_Maximum_Subarray" />
-      <item index="3" class="java.lang.String" itemvalue="Python.054_Spiral_Matrix" />
-      <item index="4" class="java.lang.String" itemvalue="Python.055_Jump_Game" />
+      <item index="0" class="java.lang.String" itemvalue="Python.051_N_Queens" />
+      <item index="1" class="java.lang.String" itemvalue="Python.053_Maximum_Subarray" />
+      <item index="2" class="java.lang.String" itemvalue="Python.054_Spiral_Matrix" />
+      <item index="3" class="java.lang.String" itemvalue="Python.055_Jump_Game" />
+      <item index="4" class="java.lang.String" itemvalue="Python.059_Spiral_Matrix_II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.055_Jump_Game" />
-        <item index="1" class="java.lang.String" itemvalue="Python.054_Spiral_Matrix" />
-        <item index="2" class="java.lang.String" itemvalue="Python.053_Maximum_Subarray" />
-        <item index="3" class="java.lang.String" itemvalue="Python.051_N_Queens" />
-        <item index="4" class="java.lang.String" itemvalue="Python.050_Pow(x, n)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.059_Spiral_Matrix_II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.055_Jump_Game" />
+        <item index="2" class="java.lang.String" itemvalue="Python.054_Spiral_Matrix" />
+        <item index="3" class="java.lang.String" itemvalue="Python.053_Maximum_Subarray" />
+        <item index="4" class="java.lang.String" itemvalue="Python.051_N_Queens" />
       </list>
     </recent_temporary>
   </component>
@@ -606,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522303960160</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="056">
+      <created>1522309982835</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1522309982835</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1000,8 +1007,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/057_Insert_Interval.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="38" column="50" lean-forward="true" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        <state relative-caret-position="185">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/059_Spiral_Matrix_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="48" column="14" lean-forward="true" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
           <folding />
         </state>
       </provider>
