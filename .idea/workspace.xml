@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/069_Sqrt(x).py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/071_Simplify_Path.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/072_Edit_Distance.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="059_Spiral_Matrix_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/059_Spiral_Matrix_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="060_Permutation_Sequence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/060_Permutation_Sequence.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="071_Simplify_Path.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="071_Simplify_Path.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/071_Simplify_Path.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="34" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="072_Edit_Distance.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/072_Edit_Distance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/069_Sqrt(x).py" />
         <option value="$PROJECT_DIR$/070_Climbing_Stairs.py" />
         <option value="$PROJECT_DIR$/071_Simplify_Path.py" />
+        <option value="$PROJECT_DIR$/072_Edit_Distance.py" />
       </list>
     </option>
   </component>
@@ -257,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.071_Simplify_Path">
-    <configuration name="065_Valid_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/065_Valid_Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.072_Edit_Distance">
     <configuration name="066_Plus_One" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +330,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="072_Edit_Distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/072_Edit_Distance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.066_Plus_One" />
-      <item index="2" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
-      <item index="3" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
+      <item index="0" class="java.lang.String" itemvalue="Python.066_Plus_One" />
+      <item index="1" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
+      <item index="2" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
+      <item index="4" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
-        <item index="1" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
-        <item index="3" class="java.lang.String" itemvalue="Python.066_Plus_One" />
-        <item index="4" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
+        <item index="1" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
+        <item index="2" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
+        <item index="4" class="java.lang.String" itemvalue="Python.066_Plus_One" />
       </list>
     </recent_temporary>
   </component>
@@ -673,7 +673,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522328963185</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="071">
+      <created>1522331195811</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1522331195811</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -711,7 +718,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="035" />
     <MESSAGE value="039" />
     <MESSAGE value="078" />
     <MESSAGE value="090" />
@@ -736,7 +742,8 @@
     <MESSAGE value="064" />
     <MESSAGE value="66" />
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <MESSAGE value="071" />
+    <option name="LAST_COMMIT_MESSAGE" value="071" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1149,6 +1156,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="34" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/072_Edit_Distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
           <folding />
         </state>
       </provider>
