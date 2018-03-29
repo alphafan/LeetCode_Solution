@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/065_Valid_Number.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/066_Plus_One.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/068_Text_Justification.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="055_Jump_Game.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/055_Jump_Game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="056_Merge_Intervals.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/056_Merge_Intervals.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="066_Plus_One.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="066_Plus_One.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/066_Plus_One.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="82">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="29" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="068_Text_Justification.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/068_Text_Justification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -176,6 +175,7 @@
         <option value="$PROJECT_DIR$/064_Minimum_Path_Sum.py" />
         <option value="$PROJECT_DIR$/065_Valid_Number.py" />
         <option value="$PROJECT_DIR$/066_Plus_One.py" />
+        <option value="$PROJECT_DIR$/068_Text_Justification.py" />
       </list>
     </option>
   </component>
@@ -253,25 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.066_Plus_One">
-    <configuration name="061_Rotate_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/061_Rotate_List.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.068_Text_Justification">
     <configuration name="062_Unique_Paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,20 +326,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="068_Text_Justification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/068_Text_Justification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.061_Rotate_List" />
-      <item index="1" class="java.lang.String" itemvalue="Python.062_Unique_Paths" />
-      <item index="2" class="java.lang.String" itemvalue="Python.064_Minimum_Path_Sum" />
-      <item index="3" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
-      <item index="4" class="java.lang.String" itemvalue="Python.066_Plus_One" />
+      <item index="0" class="java.lang.String" itemvalue="Python.062_Unique_Paths" />
+      <item index="1" class="java.lang.String" itemvalue="Python.064_Minimum_Path_Sum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
+      <item index="3" class="java.lang.String" itemvalue="Python.066_Plus_One" />
+      <item index="4" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.066_Plus_One" />
-        <item index="1" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
-        <item index="2" class="java.lang.String" itemvalue="Python.064_Minimum_Path_Sum" />
-        <item index="3" class="java.lang.String" itemvalue="Python.062_Unique_Paths" />
-        <item index="4" class="java.lang.String" itemvalue="Python.061_Rotate_List" />
+        <item index="0" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
+        <item index="1" class="java.lang.String" itemvalue="Python.066_Plus_One" />
+        <item index="2" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
+        <item index="3" class="java.lang.String" itemvalue="Python.064_Minimum_Path_Sum" />
+        <item index="4" class="java.lang.String" itemvalue="Python.062_Unique_Paths" />
       </list>
     </recent_temporary>
   </component>
@@ -655,7 +655,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522318054758</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="66">
+      <created>1522326598873</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1522326598873</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -693,7 +700,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="076" />
     <MESSAGE value="034" />
     <MESSAGE value="035" />
     <MESSAGE value="039" />
@@ -718,7 +724,8 @@
     <MESSAGE value="061" />
     <MESSAGE value="062" />
     <MESSAGE value="064" />
-    <option name="LAST_COMMIT_MESSAGE" value="064" />
+    <MESSAGE value="66" />
+    <option name="LAST_COMMIT_MESSAGE" value="66" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1107,6 +1114,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/068_Text_Justification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
           <folding />
         </state>
       </provider>
