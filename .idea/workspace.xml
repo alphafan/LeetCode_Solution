@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/068_Text_Justification.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/069_Sqrt(x).py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/071_Simplify_Path.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,26 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="056_Merge_Intervals.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/056_Merge_Intervals.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="057_Insert_Interval.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/057_Insert_Interval.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="059_Spiral_Matrix_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/059_Spiral_Matrix_II.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +85,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="068_Text_Justification.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="068_Text_Justification.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/068_Text_Justification.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            <state relative-caret-position="-21">
+              <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="069_Sqrt(x).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/069_Sqrt(x).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="31" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="071_Simplify_Path.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/071_Simplify_Path.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="34" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -176,6 +177,9 @@
         <option value="$PROJECT_DIR$/065_Valid_Number.py" />
         <option value="$PROJECT_DIR$/066_Plus_One.py" />
         <option value="$PROJECT_DIR$/068_Text_Justification.py" />
+        <option value="$PROJECT_DIR$/069_Sqrt(x).py" />
+        <option value="$PROJECT_DIR$/070_Climbing_Stairs.py" />
+        <option value="$PROJECT_DIR$/071_Simplify_Path.py" />
       </list>
     </option>
   </component>
@@ -253,43 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.068_Text_Justification">
-    <configuration name="062_Unique_Paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/062_Unique_Paths.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="064_Minimum_Path_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/064_Minimum_Path_Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.071_Simplify_Path">
     <configuration name="065_Valid_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,20 +312,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="069_Sqrt(x)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/069_Sqrt(x).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="071_Simplify_Path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/071_Simplify_Path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.062_Unique_Paths" />
-      <item index="1" class="java.lang.String" itemvalue="Python.064_Minimum_Path_Sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
-      <item index="3" class="java.lang.String" itemvalue="Python.066_Plus_One" />
-      <item index="4" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
+      <item index="0" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
+      <item index="1" class="java.lang.String" itemvalue="Python.066_Plus_One" />
+      <item index="2" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
+      <item index="3" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
-        <item index="1" class="java.lang.String" itemvalue="Python.066_Plus_One" />
-        <item index="2" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
-        <item index="3" class="java.lang.String" itemvalue="Python.064_Minimum_Path_Sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.062_Unique_Paths" />
+        <item index="0" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
+        <item index="1" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
+        <item index="3" class="java.lang.String" itemvalue="Python.066_Plus_One" />
+        <item index="4" class="java.lang.String" itemvalue="Python.065_Valid_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -662,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522326598873</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="push">
+      <created>1522328963185</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1522328963185</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -700,7 +711,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="034" />
     <MESSAGE value="035" />
     <MESSAGE value="039" />
     <MESSAGE value="078" />
@@ -725,7 +735,8 @@
     <MESSAGE value="062" />
     <MESSAGE value="064" />
     <MESSAGE value="66" />
-    <option name="LAST_COMMIT_MESSAGE" value="66" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -905,7 +916,7 @@
         <state relative-caret-position="675">
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <element signature="e#423#454#0" expanded="true" />
+            <element signature="e#423#454#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1120,8 +1131,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/068_Text_Justification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        <state relative-caret-position="-21">
+          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/069_Sqrt(x).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="31" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/071_Simplify_Path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="34" selection-end-column="30" />
           <folding />
         </state>
       </provider>
