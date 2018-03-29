@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/061_Rotate_List.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/062_Unique_Paths.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="050_Pow(x, n).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/050_Pow(x, n).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="051_N_Queens.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/051_N_Queens.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="061_Rotate_List.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="061_Rotate_List.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/061_Rotate_List.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="062_Unique_Paths.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/062_Unique_Paths.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -171,6 +171,7 @@
         <option value="$PROJECT_DIR$/059_Spiral_Matrix_II.py" />
         <option value="$PROJECT_DIR$/060_Permutation_Sequence.py" />
         <option value="$PROJECT_DIR$/061_Rotate_List.py" />
+        <option value="$PROJECT_DIR$/062_Unique_Paths.py" />
       </list>
     </option>
   </component>
@@ -248,25 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.061_Rotate_List">
-    <configuration name="054_Spiral_Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/054_Spiral_Matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.062_Unique_Paths">
     <configuration name="055_Jump_Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,20 +322,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="062_Unique_Paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/062_Unique_Paths.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.054_Spiral_Matrix" />
-      <item index="1" class="java.lang.String" itemvalue="Python.055_Jump_Game" />
-      <item index="2" class="java.lang.String" itemvalue="Python.059_Spiral_Matrix_II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.060_Permutation_Sequence" />
-      <item index="4" class="java.lang.String" itemvalue="Python.061_Rotate_List" />
+      <item index="0" class="java.lang.String" itemvalue="Python.055_Jump_Game" />
+      <item index="1" class="java.lang.String" itemvalue="Python.059_Spiral_Matrix_II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.060_Permutation_Sequence" />
+      <item index="3" class="java.lang.String" itemvalue="Python.061_Rotate_List" />
+      <item index="4" class="java.lang.String" itemvalue="Python.062_Unique_Paths" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.061_Rotate_List" />
-        <item index="1" class="java.lang.String" itemvalue="Python.060_Permutation_Sequence" />
-        <item index="2" class="java.lang.String" itemvalue="Python.059_Spiral_Matrix_II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.055_Jump_Game" />
-        <item index="4" class="java.lang.String" itemvalue="Python.054_Spiral_Matrix" />
+        <item index="0" class="java.lang.String" itemvalue="Python.062_Unique_Paths" />
+        <item index="1" class="java.lang.String" itemvalue="Python.061_Rotate_List" />
+        <item index="2" class="java.lang.String" itemvalue="Python.060_Permutation_Sequence" />
+        <item index="3" class="java.lang.String" itemvalue="Python.059_Spiral_Matrix_II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.055_Jump_Game" />
       </list>
     </recent_temporary>
   </component>
@@ -629,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522314792058</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="061">
+      <created>1522316743044</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1522316743044</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -667,7 +675,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="031" />
     <MESSAGE value="032" />
     <MESSAGE value="033" />
     <MESSAGE value="076" />
@@ -692,7 +699,8 @@
     <MESSAGE value="056" />
     <MESSAGE value="059" />
     <MESSAGE value="060" />
-    <option name="LAST_COMMIT_MESSAGE" value="060" />
+    <MESSAGE value="061" />
+    <option name="LAST_COMMIT_MESSAGE" value="061" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1049,6 +1057,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/062_Unique_Paths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding />
         </state>
       </provider>
