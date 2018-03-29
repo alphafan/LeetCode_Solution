@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/080_Remove_Duplicates_from_Sorted_Array_II.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/081_Search_in_Rotated_Sorted_Array_II.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="065_Valid_Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/065_Valid_Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="670">
-              <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="066_Plus_One.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/066_Plus_One.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="080_Remove_Duplicates_from_Sorted_Array_II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="080_Remove_Duplicates_from_Sorted_Array_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/080_Remove_Duplicates_from_Sorted_Array_II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="081_Search_in_Rotated_Sorted_Array_II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/081_Search_in_Rotated_Sorted_Array_II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/004_Median_of_Two_Sorted_Arrays.py" />
         <option value="$PROJECT_DIR$/005_Longest_Palindromic_Substring.py" />
         <option value="$PROJECT_DIR$/010_Regular_Expression_Matching.py" />
         <option value="$PROJECT_DIR$/011_Container_With_Most_Water.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/077_Combinations.py" />
         <option value="$PROJECT_DIR$/079_Word_Search.py" />
         <option value="$PROJECT_DIR$/080_Remove_Duplicates_from_Sorted_Array_II.py" />
+        <option value="$PROJECT_DIR$/081_Search_in_Rotated_Sorted_Array_II.py" />
       </list>
     </option>
   </component>
@@ -257,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.080_Remove_Duplicates_from_Sorted_Array_II">
-    <configuration name="072_Edit_Distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/072_Edit_Distance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.081_Search_in_Rotated_Sorted_Array_II">
     <configuration name="076_Minimum_Window_Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +330,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="081_Search_in_Rotated_Sorted_Array_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/081_Search_in_Rotated_Sorted_Array_II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
-      <item index="1" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
-      <item index="2" class="java.lang.String" itemvalue="Python.077_Combinations" />
-      <item index="3" class="java.lang.String" itemvalue="Python.079_Word_Search" />
-      <item index="4" class="java.lang.String" itemvalue="Python.080_Remove_Duplicates_from_Sorted_Array_II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+      <item index="1" class="java.lang.String" itemvalue="Python.077_Combinations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.079_Word_Search" />
+      <item index="3" class="java.lang.String" itemvalue="Python.080_Remove_Duplicates_from_Sorted_Array_II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.081_Search_in_Rotated_Sorted_Array_II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.080_Remove_Duplicates_from_Sorted_Array_II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.079_Word_Search" />
-        <item index="2" class="java.lang.String" itemvalue="Python.077_Combinations" />
-        <item index="3" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
-        <item index="4" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
+        <item index="0" class="java.lang.String" itemvalue="Python.081_Search_in_Rotated_Sorted_Array_II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.080_Remove_Duplicates_from_Sorted_Array_II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.079_Word_Search" />
+        <item index="3" class="java.lang.String" itemvalue="Python.077_Combinations" />
+        <item index="4" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
       </list>
     </recent_temporary>
   </component>
@@ -701,7 +701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522341677896</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="080">
+      <created>1522343983524</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1522343983524</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -739,7 +746,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="046" />
     <MESSAGE value="update" />
     <MESSAGE value="040" />
     <MESSAGE value="041" />
@@ -764,7 +770,8 @@
     <MESSAGE value="distance" />
     <MESSAGE value="076" />
     <MESSAGE value="079" />
-    <option name="LAST_COMMIT_MESSAGE" value="079" />
+    <MESSAGE value="080" />
+    <option name="LAST_COMMIT_MESSAGE" value="080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -785,14 +792,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/004_Median_of_Two_Sorted_Arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/005_Longest_Palindromic_Substring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -1191,6 +1190,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/081_Search_in_Rotated_Sorted_Array_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
           <folding />
         </state>
       </provider>
