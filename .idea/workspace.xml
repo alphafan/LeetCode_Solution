@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/072_Edit_Distance.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/076_Minimum_Window_Substring.py" afterPath="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="060_Permutation_Sequence.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/060_Permutation_Sequence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="061_Rotate_List.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/061_Rotate_List.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="072_Edit_Distance.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="072_Edit_Distance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/072_Edit_Distance.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="076_Minimum_Window_Substring.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/076_Minimum_Window_Substring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -144,7 +144,6 @@
         <option value="$PROJECT_DIR$/030_Next_Permutation.py" />
         <option value="$PROJECT_DIR$/032_Longest_Valid_Parentheses.py" />
         <option value="$PROJECT_DIR$/033_Search_in_Rotated_Sorted_Array.py" />
-        <option value="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
         <option value="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
         <option value="$PROJECT_DIR$/034_Search_for_a_Range.py" />
         <option value="$PROJECT_DIR$/035_Search_Insert_Position.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/070_Climbing_Stairs.py" />
         <option value="$PROJECT_DIR$/071_Simplify_Path.py" />
         <option value="$PROJECT_DIR$/072_Edit_Distance.py" />
+        <option value="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
       </list>
     </option>
   </component>
@@ -257,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.072_Edit_Distance">
-    <configuration name="066_Plus_One" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/066_Plus_One.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.076_Minimum_Window_Substring">
     <configuration name="068_Text_Justification" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +330,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="076_Minimum_Window_Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/076_Minimum_Window_Substring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.066_Plus_One" />
-      <item index="1" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
-      <item index="2" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
-      <item index="4" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
+      <item index="0" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
+      <item index="1" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
+      <item index="3" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
+      <item index="4" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
-        <item index="1" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
-        <item index="2" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
-        <item index="4" class="java.lang.String" itemvalue="Python.066_Plus_One" />
+        <item index="0" class="java.lang.String" itemvalue="Python.076_Minimum_Window_Substring" />
+        <item index="1" class="java.lang.String" itemvalue="Python.072_Edit_Distance" />
+        <item index="2" class="java.lang.String" itemvalue="Python.071_Simplify_Path" />
+        <item index="3" class="java.lang.String" itemvalue="Python.069_Sqrt(x)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.068_Text_Justification" />
       </list>
     </recent_temporary>
   </component>
@@ -680,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522331195811</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="distance">
+      <created>1522333555418</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1522333555418</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -718,7 +725,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="039" />
     <MESSAGE value="078" />
     <MESSAGE value="090" />
     <MESSAGE value="046" />
@@ -743,7 +749,8 @@
     <MESSAGE value="66" />
     <MESSAGE value="push" />
     <MESSAGE value="071" />
-    <option name="LAST_COMMIT_MESSAGE" value="071" />
+    <MESSAGE value="distance" />
+    <option name="LAST_COMMIT_MESSAGE" value="distance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -915,16 +922,6 @@
         <state relative-caret-position="475">
           <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/076_Minimum_Window_Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#423#454#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1164,6 +1161,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/076_Minimum_Window_Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding />
         </state>
       </provider>
