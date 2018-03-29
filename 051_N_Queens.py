@@ -30,14 +30,17 @@ class Solution(object):
 
     def __init__(self):
         self.colForRow = None
+        self.solutions = 0
 
     def solve(self, n):
         self.colForRow = [None] * n
         self.place(0, n)
+        print(self.solutions)
 
     def place(self, row, n):
         if row == n:
             print(self.colForRow)
+            self.solutions += 1
             return
         for i in range(n):
             self.colForRow[row] = i
