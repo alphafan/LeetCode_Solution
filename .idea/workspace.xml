@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/056_Merge_Intervals.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/057_Insert_Interval.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/056_Merge_Intervals.py" afterPath="$PROJECT_DIR$/056_Merge_Intervals.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="043_Multiply_Strings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/043_Multiply_Strings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="044_Wildcard_Matching.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/044_Wildcard_Matching.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="056_Merge_Intervals.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="056_Merge_Intervals.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/056_Merge_Intervals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="532">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="057_Insert_Interval.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/057_Insert_Interval.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="622">
+              <caret line="38" column="50" lean-forward="true" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -167,6 +168,7 @@
         <option value="$PROJECT_DIR$/054_Spiral_Matrix.py" />
         <option value="$PROJECT_DIR$/055_Jump_Game.py" />
         <option value="$PROJECT_DIR$/056_Merge_Intervals.py" />
+        <option value="$PROJECT_DIR$/057_Insert_Interval.py" />
       </list>
     </option>
   </component>
@@ -597,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522302879585</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="056">
+      <created>1522303960160</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1522303960160</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -635,7 +644,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove" />
     <MESSAGE value="027" />
     <MESSAGE value="030" />
     <MESSAGE value="031" />
@@ -660,7 +668,8 @@
     <MESSAGE value="053" />
     <MESSAGE value="054" />
     <MESSAGE value="055" />
-    <option name="LAST_COMMIT_MESSAGE" value="055" />
+    <MESSAGE value="056" />
+    <option name="LAST_COMMIT_MESSAGE" value="056" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -983,8 +992,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/056_Merge_Intervals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="532">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/057_Insert_Interval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="38" column="50" lean-forward="true" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
           <folding />
         </state>
       </provider>
