@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/097_Interleaving_String.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="087_Scramble_String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/087_Scramble_String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="089_Gray_Code.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/089_Gray_Code.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="097_Interleaving_String.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="097_Interleaving_String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/097_Interleaving_String.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="124">
               <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/035_Search_Insert_Position.py" />
         <option value="$PROJECT_DIR$/036_Valid_Soduku.py" />
         <option value="$PROJECT_DIR$/078_Subsets.py" />
         <option value="$PROJECT_DIR$/046_Permutations.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/096_Unique_Binary_Search_Trees.py" />
         <option value="$PROJECT_DIR$/095_Unique_Binary_Search_Trees_II.py" />
         <option value="$PROJECT_DIR$/097_Interleaving_String.py" />
+        <option value="$PROJECT_DIR$/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py" />
       </list>
     </option>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00011" summary="031">
-      <created>1522158558810</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1522158558810</updated>
     </task>
     <task id="LOCAL-00012" summary="032">
       <created>1522161991853</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522411991534</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="097">
+      <created>1522412936105</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1522412936105</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="055" />
     <MESSAGE value="056" />
     <MESSAGE value="059" />
     <MESSAGE value="060" />
@@ -785,7 +784,8 @@
     <MESSAGE value="093" />
     <MESSAGE value="096" />
     <MESSAGE value="095" />
-    <option name="LAST_COMMIT_MESSAGE" value="095" />
+    <MESSAGE value="097" />
+    <option name="LAST_COMMIT_MESSAGE" value="097" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,14 +801,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/034_Search_for_a_Range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/036_Valid_Soduku.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -1205,6 +1197,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
           <folding />
         </state>
       </provider>
