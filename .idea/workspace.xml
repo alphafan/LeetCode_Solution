@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/093_Restore_IP_Addresses.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/094_Binary_Tree_Inorder_Traversal.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/096_Unique_Binary_Search_Trees.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="082_Remove_Duplicates_from_Sorted_List_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/082_Remove_Duplicates_from_Sorted_List_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="084_Largest_Rectangle_in_Histogram.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/084_Largest_Rectangle_in_Histogram.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,21 +85,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="093_Restore_IP_Addresses.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="093_Restore_IP_Addresses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/093_Restore_IP_Addresses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            <state relative-caret-position="209">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="088_Merge_Sorted_Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/088_Merge_Sorted_Array.py">
+      <file leaf-file-name="094_Binary_Tree_Inorder_Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/094_Binary_Tree_Inorder_Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="133">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="43" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="096_Unique_Binary_Search_Trees.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/096_Unique_Binary_Search_Trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -129,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/032_Longest_Valid_Parentheses.py" />
-        <option value="$PROJECT_DIR$/033_Search_in_Rotated_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
         <option value="$PROJECT_DIR$/034_Search_for_a_Range.py" />
         <option value="$PROJECT_DIR$/035_Search_Insert_Position.py" />
@@ -180,6 +179,8 @@
         <option value="$PROJECT_DIR$/091_Decode_Ways.py" />
         <option value="$PROJECT_DIR$/092_Reverse_Linked_List_II.py" />
         <option value="$PROJECT_DIR$/093_Restore_IP_Addresses.py" />
+        <option value="$PROJECT_DIR$/094_Binary_Tree_Inorder_Traversal.py" />
+        <option value="$PROJECT_DIR$/096_Unique_Binary_Search_Trees.py" />
       </list>
     </option>
   </component>
@@ -257,43 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.093_Restore_IP_Addresses">
-    <configuration name="089_Gray_Code" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/089_Gray_Code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="090_Subsets_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/090_Subsets_II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.096_Unique_Binary_Search_Trees">
     <configuration name="091_Decode_Ways" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +313,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="094_Binary_Tree_Inorder_Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/094_Binary_Tree_Inorder_Traversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="096_Unique_Binary_Search_Trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/096_Unique_Binary_Search_Trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.089_Gray_Code" />
-      <item index="1" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
-      <item index="3" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
+      <item index="0" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
+      <item index="1" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
+      <item index="3" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
+      <item index="4" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
-        <item index="1" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
-        <item index="3" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.089_Gray_Code" />
+        <item index="0" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
+        <item index="1" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
+        <item index="2" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
+        <item index="3" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
       </list>
     </recent_temporary>
   </component>
@@ -378,13 +379,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00008" summary="remove">
-      <created>1522146237222</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1522146237222</updated>
     </task>
     <task id="LOCAL-00009" summary="027">
       <created>1522146883353</created>
@@ -722,7 +716,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522405377329</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="093">
+      <created>1522407224646</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1522407224646</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +761,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="051" />
     <MESSAGE value="053" />
     <MESSAGE value="054" />
     <MESSAGE value="055" />
@@ -785,7 +785,8 @@
     <MESSAGE value="090" />
     <MESSAGE value="091" />
     <MESSAGE value="092" />
-    <option name="LAST_COMMIT_MESSAGE" value="092" />
+    <MESSAGE value="093" />
+    <option name="LAST_COMMIT_MESSAGE" value="093" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,22 +802,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/031_Next_Permutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="48" column="37" lean-forward="false" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/032_Longest_Valid_Parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/033_Search_in_Rotated_Sorted_Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1205,8 +1190,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/093_Restore_IP_Addresses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <state relative-caret-position="209">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/094_Binary_Tree_Inorder_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="43" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/096_Unique_Binary_Search_Trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding />
         </state>
       </provider>
