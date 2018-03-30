@@ -32,6 +32,13 @@ For now, the judge is able to judge based on one instance of gray code sequence.
 
 class Solution(object):
 
+    def GrayCode(self, n):
+        count = pow(n ,2)
+        result = []
+        for i in range(count):
+            result.append(i ^ (i >> 1))
+        return result
+
     result = None
 
     def grayCode(self, n):
@@ -82,7 +89,7 @@ class Solution(object):
 
 
 s = Solution()
-r = s.grayCode(4)
+r = s.GrayCode(4)
 print(r)
 
 
