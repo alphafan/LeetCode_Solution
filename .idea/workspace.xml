@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/095_Unique_Binary_Search_Trees_II.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/097_Interleaving_String.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="086_Partition_List.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/086_Partition_List.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="58" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="087_Scramble_String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/087_Scramble_String.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="095_Unique_Binary_Search_Trees_II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="095_Unique_Binary_Search_Trees_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/095_Unique_Binary_Search_Trees_II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="097_Interleaving_String.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/097_Interleaving_String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/034_Search_for_a_Range.py" />
         <option value="$PROJECT_DIR$/035_Search_Insert_Position.py" />
         <option value="$PROJECT_DIR$/036_Valid_Soduku.py" />
         <option value="$PROJECT_DIR$/078_Subsets.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/094_Binary_Tree_Inorder_Traversal.py" />
         <option value="$PROJECT_DIR$/096_Unique_Binary_Search_Trees.py" />
         <option value="$PROJECT_DIR$/095_Unique_Binary_Search_Trees_II.py" />
+        <option value="$PROJECT_DIR$/097_Interleaving_String.py" />
       </list>
     </option>
   </component>
@@ -257,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.096_Unique_Binary_Search_Trees">
-    <configuration name="091_Decode_Ways" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/091_Decode_Ways.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.097_Interleaving_String">
     <configuration name="092_Reverse_Linked_List_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +330,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="097_Interleaving_String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/097_Interleaving_String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
-      <item index="1" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
-      <item index="3" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
-      <item index="4" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
+      <item index="0" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
+      <item index="2" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
+      <item index="3" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
+      <item index="4" class="java.lang.String" itemvalue="Python.097_Interleaving_String" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
-        <item index="1" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
-        <item index="2" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
-        <item index="3" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
+        <item index="0" class="java.lang.String" itemvalue="Python.097_Interleaving_String" />
+        <item index="1" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
+        <item index="2" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
+        <item index="3" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
+        <item index="4" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
       </list>
     </recent_temporary>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00010" summary="030">
-      <created>1522155954267</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1522155954267</updated>
     </task>
     <task id="LOCAL-00011" summary="031">
       <created>1522158558810</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522411479890</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="095">
+      <created>1522411991534</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1522411991534</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="054" />
     <MESSAGE value="055" />
     <MESSAGE value="056" />
     <MESSAGE value="059" />
@@ -785,7 +784,8 @@
     <MESSAGE value="092" />
     <MESSAGE value="093" />
     <MESSAGE value="096" />
-    <option name="LAST_COMMIT_MESSAGE" value="096" />
+    <MESSAGE value="095" />
+    <option name="LAST_COMMIT_MESSAGE" value="095" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,16 +801,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="e#374#405#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/034_Search_for_a_Range.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
@@ -1207,6 +1197,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/097_Interleaving_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           <folding />
         </state>
       </provider>
