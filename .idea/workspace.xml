@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/082_Remove_Duplicates_from_Sorted_List_II.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/084_Largest_Rectangle_in_Histogram.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/088_Merge_Sorted_Array.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/086_Partition_List.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="071_Simplify_Path.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/071_Simplify_Path.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="34" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="072_Edit_Distance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/072_Edit_Distance.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="084_Largest_Rectangle_in_Histogram.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="084_Largest_Rectangle_in_Histogram.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/084_Largest_Rectangle_in_Histogram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="125">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="086_Partition_List.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/086_Partition_List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="58" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -131,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/023_Merge_k_Sorted_Lists.py" />
         <option value="$PROJECT_DIR$/022_Generate_Parentheses.py" />
         <option value="$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py" />
         <option value="$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py" />
@@ -182,6 +179,7 @@
         <option value="$PROJECT_DIR$/082_Remove_Duplicates_from_Sorted_List_II.py" />
         <option value="$PROJECT_DIR$/088_Merge_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/084_Largest_Rectangle_in_Histogram.py" />
+        <option value="$PROJECT_DIR$/086_Partition_List.py" />
       </list>
     </option>
   </component>
@@ -259,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.084_Largest_Rectangle_in_Histogram">
-    <configuration name="080_Remove_Duplicates_from_Sorted_Array_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/080_Remove_Duplicates_from_Sorted_Array_II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.086_Partition_List">
     <configuration name="081_Search_in_Rotated_Sorted_Array_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,6 +312,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="086_Partition_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/086_Partition_List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="088_Merge_Sorted_Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,19 +349,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.080_Remove_Duplicates_from_Sorted_Array_II" />
-      <item index="1" class="java.lang.String" itemvalue="Python.081_Search_in_Rotated_Sorted_Array_II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.082_Remove_Duplicates_from_Sorted_List_II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.084_Largest_Rectangle_in_Histogram" />
-      <item index="4" class="java.lang.String" itemvalue="Python.088_Merge_Sorted_Array" />
+      <item index="0" class="java.lang.String" itemvalue="Python.081_Search_in_Rotated_Sorted_Array_II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.082_Remove_Duplicates_from_Sorted_List_II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.084_Largest_Rectangle_in_Histogram" />
+      <item index="3" class="java.lang.String" itemvalue="Python.088_Merge_Sorted_Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.086_Partition_List" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.084_Largest_Rectangle_in_Histogram" />
-        <item index="1" class="java.lang.String" itemvalue="Python.088_Merge_Sorted_Array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.082_Remove_Duplicates_from_Sorted_List_II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.081_Search_in_Rotated_Sorted_Array_II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.080_Remove_Duplicates_from_Sorted_Array_II" />
+        <item index="0" class="java.lang.String" itemvalue="Python.086_Partition_List" />
+        <item index="1" class="java.lang.String" itemvalue="Python.084_Largest_Rectangle_in_Histogram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.088_Merge_Sorted_Array" />
+        <item index="3" class="java.lang.String" itemvalue="Python.082_Remove_Duplicates_from_Sorted_List_II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.081_Search_in_Rotated_Sorted_Array_II" />
       </list>
     </recent_temporary>
   </component>
@@ -717,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522344516036</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="084">
+      <created>1522378545766</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1522378545766</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -755,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="040" />
     <MESSAGE value="041" />
     <MESSAGE value="commit" />
     <MESSAGE value="043" />
@@ -780,7 +784,8 @@
     <MESSAGE value="079" />
     <MESSAGE value="080" />
     <MESSAGE value="081" />
-    <option name="LAST_COMMIT_MESSAGE" value="081" />
+    <MESSAGE value="084" />
+    <option name="LAST_COMMIT_MESSAGE" value="084" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,14 +806,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/023_Merge_k_Sorted_Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/022_Generate_Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1205,8 +1202,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/084_Largest_Rectangle_in_Histogram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="125">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/086_Partition_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="58" selection-end-column="20" />
           <folding />
         </state>
       </provider>
