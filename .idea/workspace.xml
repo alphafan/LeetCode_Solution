@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/092_Reverse_Linked_List_II.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/093_Restore_IP_Addresses.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="081_Search_in_Rotated_Sorted_Array_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/081_Search_in_Rotated_Sorted_Array_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="082_Remove_Duplicates_from_Sorted_List_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/082_Remove_Duplicates_from_Sorted_List_II.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="092_Reverse_Linked_List_II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="092_Reverse_Linked_List_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/092_Reverse_Linked_List_II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
               <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="093_Restore_IP_Addresses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/093_Restore_IP_Addresses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/030_Next_Permutation.py" />
         <option value="$PROJECT_DIR$/032_Longest_Valid_Parentheses.py" />
         <option value="$PROJECT_DIR$/033_Search_in_Rotated_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/030_Substring_with_Concatenation_of_All_Words.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/090_Subsets_II.py" />
         <option value="$PROJECT_DIR$/091_Decode_Ways.py" />
         <option value="$PROJECT_DIR$/092_Reverse_Linked_List_II.py" />
+        <option value="$PROJECT_DIR$/093_Restore_IP_Addresses.py" />
       </list>
     </option>
   </component>
@@ -257,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.092_Reverse_Linked_List_II">
-    <configuration name="087_Scramble_String" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/087_Scramble_String.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.093_Restore_IP_Addresses">
     <configuration name="089_Gray_Code" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +330,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="093_Restore_IP_Addresses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/093_Restore_IP_Addresses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.087_Scramble_String" />
-      <item index="1" class="java.lang.String" itemvalue="Python.089_Gray_Code" />
-      <item index="2" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
-      <item index="4" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.089_Gray_Code" />
+      <item index="1" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
+      <item index="3" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
-        <item index="2" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.089_Gray_Code" />
-        <item index="4" class="java.lang.String" itemvalue="Python.087_Scramble_String" />
+        <item index="0" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
+        <item index="1" class="java.lang.String" itemvalue="Python.092_Reverse_Linked_List_II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.091_Decode_Ways" />
+        <item index="3" class="java.lang.String" itemvalue="Python.090_Subsets_II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.089_Gray_Code" />
       </list>
     </recent_temporary>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00007" summary="026">
-      <created>1522145211394</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1522145211394</updated>
     </task>
     <task id="LOCAL-00008" summary="remove">
       <created>1522146237222</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522404488728</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="092">
+      <created>1522405377329</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1522405377329</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="050" />
     <MESSAGE value="051" />
     <MESSAGE value="053" />
     <MESSAGE value="054" />
@@ -785,7 +784,8 @@
     <MESSAGE value="089" />
     <MESSAGE value="090" />
     <MESSAGE value="091" />
-    <option name="LAST_COMMIT_MESSAGE" value="091" />
+    <MESSAGE value="092" />
+    <option name="LAST_COMMIT_MESSAGE" value="092" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,14 +801,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///anaconda/envs/untitled4/lib/python3.6/collections/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="539" column="0" lean-forward="false" selection-start-line="539" selection-start-column="0" selection-end-line="539" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/031_Next_Permutation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1207,6 +1199,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/093_Restore_IP_Addresses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           <folding />
         </state>
       </provider>
