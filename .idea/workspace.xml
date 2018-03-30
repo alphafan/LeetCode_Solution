@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/087_Scramble_String.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/089_Gray_Code.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="076_Minimum_Window_Substring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/076_Minimum_Window_Substring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="077_Combinations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/077_Combinations.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="087_Scramble_String.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="087_Scramble_String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/087_Scramble_String.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="089_Gray_Code.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/089_Gray_Code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="626">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py" />
         <option value="$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/027_Remove_Element.py" />
         <option value="$PROJECT_DIR$/030_Next_Permutation.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/084_Largest_Rectangle_in_Histogram.py" />
         <option value="$PROJECT_DIR$/086_Partition_List.py" />
         <option value="$PROJECT_DIR$/087_Scramble_String.py" />
+        <option value="$PROJECT_DIR$/089_Gray_Code.py" />
       </list>
     </option>
   </component>
@@ -257,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.087_Scramble_String">
-    <configuration name="082_Remove_Duplicates_from_Sorted_List_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/082_Remove_Duplicates_from_Sorted_List_II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.089_Gray_Code">
     <configuration name="084_Largest_Rectangle_in_Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +330,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="089_Gray_Code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/089_Gray_Code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.082_Remove_Duplicates_from_Sorted_List_II" />
-      <item index="1" class="java.lang.String" itemvalue="Python.084_Largest_Rectangle_in_Histogram" />
-      <item index="2" class="java.lang.String" itemvalue="Python.088_Merge_Sorted_Array" />
-      <item index="3" class="java.lang.String" itemvalue="Python.086_Partition_List" />
-      <item index="4" class="java.lang.String" itemvalue="Python.087_Scramble_String" />
+      <item index="0" class="java.lang.String" itemvalue="Python.084_Largest_Rectangle_in_Histogram" />
+      <item index="1" class="java.lang.String" itemvalue="Python.088_Merge_Sorted_Array" />
+      <item index="2" class="java.lang.String" itemvalue="Python.086_Partition_List" />
+      <item index="3" class="java.lang.String" itemvalue="Python.087_Scramble_String" />
+      <item index="4" class="java.lang.String" itemvalue="Python.089_Gray_Code" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.087_Scramble_String" />
-        <item index="1" class="java.lang.String" itemvalue="Python.086_Partition_List" />
-        <item index="2" class="java.lang.String" itemvalue="Python.084_Largest_Rectangle_in_Histogram" />
-        <item index="3" class="java.lang.String" itemvalue="Python.088_Merge_Sorted_Array" />
-        <item index="4" class="java.lang.String" itemvalue="Python.082_Remove_Duplicates_from_Sorted_List_II" />
+        <item index="0" class="java.lang.String" itemvalue="Python.089_Gray_Code" />
+        <item index="1" class="java.lang.String" itemvalue="Python.087_Scramble_String" />
+        <item index="2" class="java.lang.String" itemvalue="Python.086_Partition_List" />
+        <item index="3" class="java.lang.String" itemvalue="Python.084_Largest_Rectangle_in_Histogram" />
+        <item index="4" class="java.lang.String" itemvalue="Python.088_Merge_Sorted_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00002" summary="005">
-      <created>1522122281355</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1522122281355</updated>
     </task>
     <task id="LOCAL-00003" summary="010">
       <created>1522128393935</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522388090556</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="087">
+      <created>1522389370977</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1522389370977</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
     <MESSAGE value="043" />
     <MESSAGE value="044" />
     <MESSAGE value="045" />
@@ -785,7 +784,8 @@
     <MESSAGE value="081" />
     <MESSAGE value="084" />
     <MESSAGE value="086" />
-    <option name="LAST_COMMIT_MESSAGE" value="086" />
+    <MESSAGE value="087" />
+    <option name="LAST_COMMIT_MESSAGE" value="087" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -806,14 +806,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/025_Reverse_Nodes_in_k_Group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/026_Remove_Duplicates_from_Sorted_Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -1212,6 +1204,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/089_Gray_Code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
