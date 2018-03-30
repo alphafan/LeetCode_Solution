@@ -19,32 +19,23 @@ If nums = [1,2,2], a solution is:
 
 class Solution(object):
 
-    def subsetsWithDup(self, nums):
+    def subsets(self, nums):
         """
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        if len(nums) == 0:
-            return []
+        results = set()
         nums.sort()
-        i, res = 0, [[]]
-        while i < len(nums):
-            dup = 0
-            while i+1 < len(nums) and nums[i] == nums[i+1]:
-                dup += 1
-                i += 1
-            if dup:
-                before = res
-                for d in range(1, dup+2):
-                    expandRes = [r + [nums[i]] * d for r in before]
-                    res = res + expandRes
-            else:
-                expandRes = [r+[nums[i]] for r in res]
-                res = res + expandRes
-            i += 1
-        res.sort()
-        return res
+        self.subsetHelper(nums, 0, [], results)
+        return results
+
+    def subsetHelper(self, nums, index, partial, results):
+        if index == len(nums):
+            results.add(tuple(partial))
+            return
+        self.subsetHelper(nums, index+1, partial+[nums[index]], results)
+        self.subsetHelper(nums, index+1, partial, results)
 
 s = Solution()
-r = s.subsetsWithDup([1, 1])
+r = s.subsets([1, 2, 2])
 print(r)
