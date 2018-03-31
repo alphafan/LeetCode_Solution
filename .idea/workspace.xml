@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/120_Triangle.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="091_Decode_Ways.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/091_Decode_Ways.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="092_Reverse_Linked_List_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/092_Reverse_Linked_List_II.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="120_Triangle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="120_Triangle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/120_Triangle.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="698">
               <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="121_Best_Time_to_Buy_and_Sell_Stock.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/047_Permutations_II.py" />
         <option value="$PROJECT_DIR$/039_Combination_Sum.py" />
         <option value="$PROJECT_DIR$/040_Combination_Sum_II.py" />
         <option value="$PROJECT_DIR$/041_First_Missing_Positive.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py" />
         <option value="$PROJECT_DIR$/118_Pascal's_Triangle.py" />
         <option value="$PROJECT_DIR$/120_Triangle.py" />
+        <option value="$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py" />
       </list>
     </option>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00014" summary="076">
-      <created>1522203286439</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1522203286439</updated>
     </task>
     <task id="LOCAL-00015" summary="update">
       <created>1522205923628</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522418353161</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="120">
+      <created>1522463665011</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1522463665012</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="060" />
     <MESSAGE value="061" />
     <MESSAGE value="062" />
     <MESSAGE value="064" />
@@ -785,7 +784,8 @@
     <MESSAGE value="097" />
     <MESSAGE value="construct tree" />
     <MESSAGE value="106" />
-    <option name="LAST_COMMIT_MESSAGE" value="106" />
+    <MESSAGE value="120" />
+    <option name="LAST_COMMIT_MESSAGE" value="120" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,14 +801,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/046_Permutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/047_Permutations_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1205,6 +1197,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="698">
           <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
           <folding />
         </state>
       </provider>
