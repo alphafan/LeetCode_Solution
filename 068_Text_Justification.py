@@ -66,7 +66,6 @@ class Solution(object):
                 pass
 
 
-
 s = Solution()
 r = s.splitWordsToString(["This", "is", "an", "example", "of", "text", "justification."], 16)
 print(r)
