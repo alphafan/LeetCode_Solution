@@ -19,10 +19,11 @@ class Solution(object):
         numsSet = set(nums)
         maxLength = 0
         for num in numsSet:
-            currLength = 1
-            n = num
-            while n+1 in numsSet:
-                n = n+1
-                currLength += 1
-            maxLength = max(maxLength, currLength)
+            if num-1 not in numsSet:
+                currLength = 1
+                n = num
+                while n+1 in numsSet:
+                    n = n+1
+                    currLength += 1
+                maxLength = max(maxLength, currLength)
         return maxLength
