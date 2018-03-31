@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="093_Restore_IP_Addresses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/093_Restore_IP_Addresses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="094_Binary_Tree_Inorder_Traversal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/094_Binary_Tree_Inorder_Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,18 +87,28 @@
       <file leaf-file-name="121_Best_Time_to_Buy_and_Sell_Stock.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+            <state relative-caret-position="418">
+              <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="122_Best_Time_to_Buy_and_Sell_Stock_II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="122_Best_Time_to_Buy_and_Sell_Stock_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="190">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="123_Best_Time_to_Buy_and_Sell_Stock_III.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/040_Combination_Sum_II.py" />
         <option value="$PROJECT_DIR$/041_First_Missing_Positive.py" />
         <option value="$PROJECT_DIR$/042_Trapping_Rain_Water.py" />
         <option value="$PROJECT_DIR$/043_Multiply_Strings.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/120_Triangle.py" />
         <option value="$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py" />
         <option value="$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II.py" />
+        <option value="$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py" />
       </list>
     </option>
   </component>
@@ -257,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.120_Triangle">
-    <configuration name="093_Restore_IP_Addresses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/093_Restore_IP_Addresses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.123_Best_Time_to_Buy_and_Sell_Stock_III">
     <configuration name="094_Binary_Tree_Inorder_Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +330,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="123_Best_Time_to_Buy_and_Sell_Stock_III" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
-      <item index="1" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
-      <item index="2" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
-      <item index="3" class="java.lang.String" itemvalue="Python.097_Interleaving_String" />
-      <item index="4" class="java.lang.String" itemvalue="Python.120_Triangle" />
+      <item index="0" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
+      <item index="1" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
+      <item index="2" class="java.lang.String" itemvalue="Python.097_Interleaving_String" />
+      <item index="3" class="java.lang.String" itemvalue="Python.120_Triangle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.120_Triangle" />
-        <item index="1" class="java.lang.String" itemvalue="Python.097_Interleaving_String" />
-        <item index="2" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
-        <item index="3" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
-        <item index="4" class="java.lang.String" itemvalue="Python.093_Restore_IP_Addresses" />
+        <item index="0" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
+        <item index="1" class="java.lang.String" itemvalue="Python.120_Triangle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.097_Interleaving_String" />
+        <item index="3" class="java.lang.String" itemvalue="Python.096_Unique_Binary_Search_Trees" />
+        <item index="4" class="java.lang.String" itemvalue="Python.094_Binary_Tree_Inorder_Traversal" />
       </list>
     </recent_temporary>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00016" summary="034">
-      <created>1522207311590</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1522207311590</updated>
     </task>
     <task id="LOCAL-00017" summary="035">
       <created>1522216985200</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522463723256</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="122">
+      <created>1522464004087</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1522464004088</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="062" />
     <MESSAGE value="064" />
     <MESSAGE value="66" />
     <MESSAGE value="push" />
@@ -785,7 +784,8 @@
     <MESSAGE value="106" />
     <MESSAGE value="120" />
     <MESSAGE value="121" />
-    <option name="LAST_COMMIT_MESSAGE" value="121" />
+    <MESSAGE value="122" />
+    <option name="LAST_COMMIT_MESSAGE" value="122" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -796,19 +796,11 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="28" />
+      <option name="time" value="30" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/039_Combination_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/040_Combination_Sum_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -1193,18 +1185,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py">
+    <entry file="file://$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        <state relative-caret-position="190">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II.py">
+    <entry file="file://$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="418">
+          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
           <folding />
         </state>
       </provider>
