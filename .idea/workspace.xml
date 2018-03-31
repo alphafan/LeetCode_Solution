@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/128_Longest_Consecutive_Sequence.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="094_Binary_Tree_Inorder_Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/094_Binary_Tree_Inorder_Traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="43" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="096_Unique_Binary_Search_Trees.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/096_Unique_Binary_Search_Trees.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="123_Best_Time_to_Buy_and_Sell_Stock_III.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="123_Best_Time_to_Buy_and_Sell_Stock_III.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="457">
               <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="128_Longest_Consecutive_Sequence.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/128_Longest_Consecutive_Sequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/041_First_Missing_Positive.py" />
         <option value="$PROJECT_DIR$/042_Trapping_Rain_Water.py" />
         <option value="$PROJECT_DIR$/043_Multiply_Strings.py" />
         <option value="$PROJECT_DIR$/044_Wildcard_Matching.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py" />
         <option value="$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II.py" />
         <option value="$PROJECT_DIR$/123_Best_Time_to_Buy_and_Sell_Stock_III.py" />
+        <option value="$PROJECT_DIR$/128_Longest_Consecutive_Sequence.py" />
       </list>
     </option>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00017" summary="035">
-      <created>1522216985200</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1522216985200</updated>
     </task>
     <task id="LOCAL-00018" summary="039">
       <created>1522218517251</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522464004088</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="stock">
+      <created>1522474575134</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1522474575134</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="064" />
     <MESSAGE value="66" />
     <MESSAGE value="push" />
     <MESSAGE value="071" />
@@ -785,7 +784,8 @@
     <MESSAGE value="120" />
     <MESSAGE value="121" />
     <MESSAGE value="122" />
-    <option name="LAST_COMMIT_MESSAGE" value="122" />
+    <MESSAGE value="stock" />
+    <option name="LAST_COMMIT_MESSAGE" value="stock" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,14 +801,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/040_Combination_Sum_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/041_First_Missing_Positive.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -1205,6 +1197,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
           <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/128_Longest_Consecutive_Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
           <folding />
         </state>
       </provider>
