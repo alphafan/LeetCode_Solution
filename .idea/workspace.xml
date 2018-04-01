@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/151_Reverse_Words_in_a_String.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="151_Reverse_Words_in_a_String.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="151_Reverse_Words_in_a_String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/151_Reverse_Words_in_a_String.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
@@ -104,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="068_Text_Justification.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/068_Text_Justification.py">
+      <file leaf-file-name="153_Find_Minimum_in_Rotated_Sorted_Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
-              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="403">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/055_Jump_Game.py" />
         <option value="$PROJECT_DIR$/056_Merge_Intervals.py" />
         <option value="$PROJECT_DIR$/057_Insert_Interval.py" />
         <option value="$PROJECT_DIR$/059_Spiral_Matrix_II.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/149_Max_Points.py" />
         <option value="$PROJECT_DIR$/150_Eval_RPN.py" />
         <option value="$PROJECT_DIR$/151_Reverse_Words_in_a_String.py" />
+        <option value="$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py" />
       </list>
     </option>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00027" summary="044">
-      <created>1522246302269</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1522246302269</updated>
     </task>
     <task id="LOCAL-00028" summary="045">
       <created>1522249883920</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522580767488</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="151">
+      <created>1522580836117</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1522580836117</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="086" />
     <MESSAGE value="087" />
     <MESSAGE value="089" />
     <MESSAGE value="090" />
@@ -785,7 +784,8 @@
     <MESSAGE value="135" />
     <MESSAGE value="max points" />
     <MESSAGE value="150" />
-    <option name="LAST_COMMIT_MESSAGE" value="150" />
+    <MESSAGE value="151" />
+    <option name="LAST_COMMIT_MESSAGE" value="151" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -806,13 +806,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/054_Spiral_Matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/055_Jump_Game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
@@ -1178,6 +1171,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding />
         </state>
       </provider>
