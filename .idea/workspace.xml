@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/133_Cone_Graph.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/134_Gas_Station.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,21 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="133_Cone_Graph.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="133_Cone_Graph.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/133_Cone_Graph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            <state relative-caret-position="290">
+              <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="121_Best_Time_to_Buy_and_Sell_Stock.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py">
+      <file leaf-file-name="134_Gas_Station.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/134_Gas_Station.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+            <state relative-caret-position="817">
+              <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/049_Group_Anagrams.py" />
         <option value="$PROJECT_DIR$/050_Pow(x, n).py" />
         <option value="$PROJECT_DIR$/051_N_Queens.py" />
         <option value="$PROJECT_DIR$/053_Maximum_Subarray.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/129_Sum_Root_to_Leaf_Numbers.py" />
         <option value="$PROJECT_DIR$/131_Palindrome_Partitioning.py" />
         <option value="$PROJECT_DIR$/133_Cone_Graph.py" />
+        <option value="$PROJECT_DIR$/134_Gas_Station.py" />
       </list>
     </option>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00022" summary="update">
-      <created>1522231484071</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1522231484071</updated>
     </task>
     <task id="LOCAL-00023" summary="040">
       <created>1522231589899</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522520958768</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="133">
+      <created>1522554372406</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1522554372406</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="076" />
     <MESSAGE value="079" />
     <MESSAGE value="080" />
     <MESSAGE value="081" />
@@ -785,7 +784,8 @@
     <MESSAGE value="128" />
     <MESSAGE value="path to leave sum" />
     <MESSAGE value="131" />
-    <option name="LAST_COMMIT_MESSAGE" value="131" />
+    <MESSAGE value="133" />
+    <option name="LAST_COMMIT_MESSAGE" value="133" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,14 +801,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/045_Jump_Game_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/049_Group_Anagrams.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1196,8 +1188,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/133_Cone_Graph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        <state relative-caret-position="290">
+          <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/134_Gas_Station.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
           <folding />
         </state>
       </provider>
