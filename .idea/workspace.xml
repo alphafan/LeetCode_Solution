@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/173_Binary_Search_Tree_Iterator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/188_Best_Time_to_Buy_and_Sell_Stock_IV.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/190_Reverse_Bits.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="131_Palindrome_Partitioning.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/131_Palindrome_Partitioning.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1121">
-              <caret line="59" column="22" lean-forward="false" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="133_Cone_Graph.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/133_Cone_Graph.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="188_Best_Time_to_Buy_and_Sell_Stock_IV.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="188_Best_Time_to_Buy_and_Sell_Stock_IV.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/188_Best_Time_to_Buy_and_Sell_Stock_IV.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="190_Reverse_Bits.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/190_Reverse_Bits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -130,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/059_Spiral_Matrix_II.py" />
         <option value="$PROJECT_DIR$/060_Permutation_Sequence.py" />
         <option value="$PROJECT_DIR$/061_Rotate_List.py" />
         <option value="$PROJECT_DIR$/062_Unique_Paths.py" />
@@ -181,6 +179,7 @@
         <option value="$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/173_Binary_Search_Tree_Iterator.py" />
         <option value="$PROJECT_DIR$/188_Best_Time_to_Buy_and_Sell_Stock_IV.py" />
+        <option value="$PROJECT_DIR$/190_Reverse_Bits.py" />
       </list>
     </option>
   </component>
@@ -379,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00029" summary="050">
-      <created>1522251681977</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1522251681977</updated>
     </task>
     <task id="LOCAL-00030" summary="051">
       <created>1522289602025</created>
@@ -723,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522586633637</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="update">
+      <created>1522664879351</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1522664879352</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -761,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="089" />
     <MESSAGE value="090" />
     <MESSAGE value="091" />
     <MESSAGE value="092" />
@@ -786,7 +784,8 @@
     <MESSAGE value="150" />
     <MESSAGE value="151" />
     <MESSAGE value="153" />
-    <option name="LAST_COMMIT_MESSAGE" value="153" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -807,13 +806,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/057_Insert_Interval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/059_Spiral_Matrix_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1181,6 +1173,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190_Reverse_Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding />
         </state>
       </provider>
