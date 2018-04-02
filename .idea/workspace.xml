@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb04cd4-6490-4a91-ae82-58ec11f87101" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/190_Reverse_Bits.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/200_Islands.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="133_Cone_Graph.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/133_Cone_Graph.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="72" column="20" lean-forward="false" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="134_Gas_Station.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/134_Gas_Station.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="190_Reverse_Bits.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="190_Reverse_Bits.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/190_Reverse_Bits.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="551">
               <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="200_Islands.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/200_Islands.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1558">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/060_Permutation_Sequence.py" />
         <option value="$PROJECT_DIR$/061_Rotate_List.py" />
         <option value="$PROJECT_DIR$/062_Unique_Paths.py" />
         <option value="$PROJECT_DIR$/064_Minimum_Path_Sum.py" />
@@ -180,6 +179,7 @@
         <option value="$PROJECT_DIR$/173_Binary_Search_Tree_Iterator.py" />
         <option value="$PROJECT_DIR$/188_Best_Time_to_Buy_and_Sell_Stock_IV.py" />
         <option value="$PROJECT_DIR$/190_Reverse_Bits.py" />
+        <option value="$PROJECT_DIR$/200_Islands.py" />
       </list>
     </option>
   </component>
@@ -257,25 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.149_Max_Points">
-    <configuration name="097_Interleaving_String" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/097_Interleaving_String.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.200_Islands">
     <configuration name="120_Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +330,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="200_Islands" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetCode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200_Islands.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.097_Interleaving_String" />
-      <item index="1" class="java.lang.String" itemvalue="Python.120_Triangle" />
-      <item index="2" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
-      <item index="3" class="java.lang.String" itemvalue="Python.127_Word_Ladder" />
-      <item index="4" class="java.lang.String" itemvalue="Python.149_Max_Points" />
+      <item index="0" class="java.lang.String" itemvalue="Python.120_Triangle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
+      <item index="2" class="java.lang.String" itemvalue="Python.127_Word_Ladder" />
+      <item index="3" class="java.lang.String" itemvalue="Python.149_Max_Points" />
+      <item index="4" class="java.lang.String" itemvalue="Python.200_Islands" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.149_Max_Points" />
-        <item index="1" class="java.lang.String" itemvalue="Python.127_Word_Ladder" />
-        <item index="2" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
-        <item index="3" class="java.lang.String" itemvalue="Python.120_Triangle" />
-        <item index="4" class="java.lang.String" itemvalue="Python.097_Interleaving_String" />
+        <item index="0" class="java.lang.String" itemvalue="Python.200_Islands" />
+        <item index="1" class="java.lang.String" itemvalue="Python.149_Max_Points" />
+        <item index="2" class="java.lang.String" itemvalue="Python.127_Word_Ladder" />
+        <item index="3" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
+        <item index="4" class="java.lang.String" itemvalue="Python.120_Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -378,13 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522115107023</updated>
-    </task>
-    <task id="LOCAL-00030" summary="051">
-      <created>1522289602025</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1522289602025</updated>
     </task>
     <task id="LOCAL-00031" summary="053">
       <created>1522300591379</created>
@@ -722,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522664879352</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="190">
+      <created>1522665883441</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1522665883441</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -745,7 +745,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33647057" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33647057" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="090" />
     <MESSAGE value="091" />
     <MESSAGE value="092" />
     <MESSAGE value="093" />
@@ -785,7 +784,8 @@
     <MESSAGE value="151" />
     <MESSAGE value="153" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="190" />
+    <option name="LAST_COMMIT_MESSAGE" value="190" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,18 +801,11 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="34" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/059_Spiral_Matrix_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/060_Permutation_Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
@@ -1181,6 +1174,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200_Islands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding />
         </state>
       </provider>
